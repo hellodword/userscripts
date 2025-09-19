@@ -8,7 +8,7 @@
 // @match        https://gist.github.com/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL https://github.com/hellodword/userscripts/refs/heads/master/hide-fb929.user.js
+// @downloadURL  https://github.com/hellodword/userscripts/raw/refs/heads/master/hide-fb929.user.js
 // ==/UserScript==
 
 (function () {

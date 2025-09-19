@@ -7,7 +7,7 @@
 // @match        https://github.com/NixOS/nixpkgs/blob/release-25.11/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL https://github.com/hellodword/userscripts/refs/heads/master/redirect-nixos-manual.user.js
+// @downloadURL  https://github.com/hellodword/userscripts/raw/refs/heads/master/redirect-nixos-manual.user.js
 // ==/UserScript==
 
 location.href = location.href

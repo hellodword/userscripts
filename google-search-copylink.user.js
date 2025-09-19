@@ -7,7 +7,7 @@
 // @match        https://www.google.com/search*
 // @grant        none
 // @run-at       document-start
-// @downloadURL https://github.com/hellodword/userscripts/refs/heads/master/google-search-copylink.user.js
+// @downloadURL  https://github.com/hellodword/userscripts/raw/refs/heads/master/google-search-copylink.user.js
 // ==/UserScript==
 
 // https://support.mozilla.org/en-US/questions/1177232

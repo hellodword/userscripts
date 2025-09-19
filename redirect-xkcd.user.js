@@ -7,7 +7,7 @@
 // @grant       none
 // @version     0.1.0
 // @run-at      document-start
-// @downloadURL https://github.com/hellodword/userscripts/refs/heads/master/redirect-xkcd.user.js
+// @downloadURL https://github.com/hellodword/userscripts/raw/refs/heads/master/redirect-xkcd.user.js
 // ==/UserScript==
 
 (function () {

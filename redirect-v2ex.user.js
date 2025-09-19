@@ -7,7 +7,7 @@
 // @match        https://*.v2ex.com/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL https://github.com/hellodword/userscripts/refs/heads/master/redirect-v2ex.user.js
+// @downloadURL  https://github.com/hellodword/userscripts/raw/refs/heads/master/redirect-v2ex.user.js
 // ==/UserScript==
 
 (function () {
