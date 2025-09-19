@@ -4,7 +4,8 @@
 // @namespace   https://github.com/hellodword/userscripts
 // @author      hellodword
 // @match       https://github.com/*
-// @version     0.2.0
+// @match       https://gist.github.com/*
+// @version     0.2.1
 // @grant       GM.registerMenuCommand
 // @grant       GM.unregisterMenuCommand
 // @run-at      document-start
